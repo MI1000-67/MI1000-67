@@ -23,49 +23,49 @@
 class Saul:
     aka        = "Ilmy"
     degree     = "BSc (Hons) Artificial Intelligence"
-    university = "NSBM Green University Ã— Univ. Plymouth ðŸ‡¬ðŸ‡§"
-    target     = "First Class Honours ðŸŽ¯"
+    university = "NSBM Green University × Univ. Plymouth 🇬🇧"
+    target     = "First Class Honours 🎯"
     focus      = ["LLMs", "Adaptive Learning", "AI Apps"]
-    hackathons = ["Gemma 4 Good â€” Kaggle (May 2026)"]
-    freelance  = "Fiverr Â· AI Design & Creative ðŸ’¼"
-    hardware   = "Lenovo LOQ Â· RTX 4050 Â· i5-13450HX Â· 16GB"
-    currently  = "Building SelfTutor V6 ðŸš€"
-    status     = "ðŸŸ¢ Open to collaborations & opportunities"
+    hackathons = ["Gemma 4 Good — Kaggle (May 2026)"]
+    freelance  = "Fiverr · AI Design & Creative 💼"
+    hardware   = "Lenovo LOQ · RTX 4050 · i5-13450HX · 16GB"
+    currently  = "Building SelfTutor V6 🚀"
+    status     = "🟢 Open to collaborations & opportunities"
 ```
 
 <br clear="right"/>
 
 ---
 
-## ðŸš€ SelfTutor V6 â€” Flagship Project
+## 🚀 SelfTutor V6 — Flagship Project
 
 <div align="center">
 
-> **Adaptive AI Tutoring System** Â· **Gemma 4 Good Hackathon** Â· Kaggle GPU T4Ã—2
+> **Adaptive AI Tutoring System** · **Gemma 4 Good Hackathon** · Kaggle GPU T4×2
 
 </div>
 
 ```
-ðŸ§   AI Core       â†’  gemma4:e4b via Ollama
-ðŸ“š  Learning      â†’  SM-2 Spaced Repetition + Bloom's Taxonomy Detection
-ðŸŒ  Multilingual  â†’  10-Language Support Tab (no external translation API)
-ðŸ…  Olympiads     â†’  SLMO Â· SEAMO Â· IMO Â· IPhO Â· IChO Â· IOAA Â· A-Level
-ðŸ”¬  Visual Lab    â†’  8Ã— Offline HTML5 Canvas Physics/Math/Chem/Bio Sims
-âš¡  Performance   â†’  Parallel Bloom Detection via ThreadPoolExecutor
-ðŸ—„ï¸  Data          â†’  SQLite + NetworkX knowledge graph
-ðŸ› ï¸  Stack         â†’  Python Â· Gradio Â· 6,450+ lines Â· 2-cell Notebook
+🧠  AI Core       →  gemma4:e4b via Ollama
+📚  Learning      →  SM-2 Spaced Repetition + Bloom's Taxonomy Detection
+🌐  Multilingual  →  10-Language Support Tab (no external translation API)
+🏅  Olympiads     →  SLMO · SEAMO · IMO · IPhO · IChO · IOAA · A-Level
+🔬  Visual Lab    →  8× Offline HTML5 Canvas Physics/Math/Chem/Bio Sims
+⚡  Performance   →  Parallel Bloom Detection via ThreadPoolExecutor
+🗄️  Data          →  SQLite + NetworkX knowledge graph
+🛠️  Stack         →  Python · Gradio · 6,450+ lines · 2-cell Notebook
 ```
 
 <div align="center">
 
-[![View on Kaggle](https://img.shields.io/badge/â–¶%20View%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![View on Kaggle](https://img.shields.io/badge/▶%20View%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![GitHub Repo](https://img.shields.io/badge/selftutor--gemma4-c084fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MI1000-67/selftutor-gemma4)
 
 </div>
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -99,7 +99,7 @@ class Saul:
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -114,7 +114,7 @@ class Saul:
 
 ---
 
-## ðŸ† GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -124,35 +124,35 @@ class Saul:
 
 ---
 
-## ðŸŒ± Currently Exploring
+## 🌱 Currently Exploring
 
 <div align="center">
 
 | Area | Topics |
 |:----:|:-------|
-| ðŸ§  AI Research | LLM fine-tuning Â· RAG Â· knowledge graphs |
-| ðŸ“ Mathematics | Linear algebra Â· probability Â· stats for ML |
-| ðŸ—ï¸ Engineering | Async Python Â· API design Â· containerisation |
-| ðŸŽ¨ Creative AI | Adobe Firefly Â· Canva AI Â· generative workflows |
-| ðŸ… Competitive | Hackathons Â· Kaggle competitions Â· olympiad problems |
+| 🧠 AI Research | LLM fine-tuning · RAG · knowledge graphs |
+| 📐 Mathematics | Linear algebra · probability · stats for ML |
+| 🏗️ Engineering | Async Python · API design · containerisation |
+| 🎨 Creative AI | Adobe Firefly · Canva AI · generative workflows |
+| 🏅 Competitive | Hackathons · Kaggle competitions · olympiad problems |
 
 </div>
 
 ---
 
-## ðŸŽ¯ 2026 Goals
+## 🎯 2026 Goals
 
 ```
-[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘] 50%  â†’  Complete Year 1 with distinction
-[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘] 40%  â†’  Ship 3 portfolio-worthy AI projects
-[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘] 30%  â†’  Win / place in a hackathon
-[â–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘] 20%  â†’  Grow Fiverr to Level 1 Seller
-[â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘] 10%  â†’  Contribute to open-source AI tools
+[██████████░░░░░░░░░░] 50%  →  Complete Year 1 with distinction
+[████████░░░░░░░░░░░░] 40%  →  Ship 3 portfolio-worthy AI projects
+[██████░░░░░░░░░░░░░░] 30%  →  Win / place in a hackathon
+[████░░░░░░░░░░░░░░░░] 20%  →  Grow Fiverr to Level 1 Seller
+[██░░░░░░░░░░░░░░░░░░] 10%  →  Contribute to open-source AI tools
 ```
 
 ---
 
-## ðŸ“« Connect
+## 📫 Connect
 
 <div align="center">
 
