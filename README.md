@@ -25,7 +25,7 @@ class Saul:
     degree     = "BSc (Hons) Artificial Intelligence"
     university = "NSBM Green University × Univ. Plymouth 🇬🇧"
     target     = "First Class Honours 🎯"
-    focus      = ["LLMs", "Adaptive Learning", "AI Apps"]
+    focus      = ["LLMs", "Adaptive Learning", "AI Apps", "Research"]
     hackathons = ["Gemma 4 Good — Kaggle (May 2026)"]
     freelance  = "Fiverr · AI Design & Creative 💼"
     hardware   = "Lenovo LOQ · RTX 4050 · i5-13450HX · 16GB"
