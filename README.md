@@ -29,7 +29,7 @@ class Saul:
     hackathons  = ["Gemma 4 Good — Kaggle (May 2026)"]
     freelance   = "Fiverr · AI Design & Creative"
     hardware    = "Lenovo LOQ · RTX 4050 · i5-13450HX · 16GB"
-    currently   = "Building SelfTutor V6"
+    currently   = "Building UNIWAY"
     status      = "Open to collaborations and opportunities"
 ```
 
